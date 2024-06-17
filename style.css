@@ -6,6 +6,7 @@
 
 header{
     background-color: black;
+    color: #fff;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -13,5 +14,5 @@ header{
 }
 
 .introducao{
-    
+
 }
